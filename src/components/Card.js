@@ -7,7 +7,7 @@ export default function Card(props) {
     return (
         <div className="card">
             <div>
-                <img src={props.imageUrl} className="card-image" alt="location image"/>
+                <img src={props.imageUrl} className="card-image" alt="A beautiful landscape in Travel Journals"/>
             </div>
             <div>
                 <div className="card-header">
