@@ -5,7 +5,7 @@ let globeImg = require ("../images/globe.png")
 export default function Navbar(){
     return (
         <nav>
-            <img src={globeImg} />
+            <img src={globeImg} alt="logo"/>
             <p>My Travel Journal</p>
         </nav>
     )
